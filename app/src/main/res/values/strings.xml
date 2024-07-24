@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_list_title">Daftar Catatan</string>
+    <string name="add_note_title">Tambah Catatan</string>
+    <string name="note_title_label">Judul</string>
+    <string name="note_input_label">Catatan</string>
+    <string name="save_button">Simpan</string>
+    <string name="login_title">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="submit_button">Submit</string>
+    <string name="password_hint">Password</string>
+    <string name="note_item_title">Title</string>
+    <string name="note_item_content">Content</string>
+</resources>
